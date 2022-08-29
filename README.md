@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainer-tian
 - 👀 I’m interested in Vue,React,Flutter
-- 🌱 I’m currently learning React
+- 🌱 I’m a developer of blockchain
 - 📫 How to reach me: djytwy@gmail.com
 
 <!---
